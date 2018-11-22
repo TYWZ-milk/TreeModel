@@ -1,4 +1,3 @@
- 
 The right column is the edit box for the main branch, including：
 
 Background:Background color of the scene
